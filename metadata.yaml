@@ -1,0 +1,25 @@
+_repo: Der-Fall-Otto-WeiningerEine-psychiatrische-Studie_40601
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40601-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Probst, Ferdinand
+    gutenberg_agent_id: '40722'
+    url: http://www.gutenberg.org/2009/agents/40722
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40601'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weininger, Otto, 1880-1903'
+- !lcc 'BF'
+title: 'Der Fall Otto Weininger: Eine psychiatrische Studie'
+url: http://www.gutenberg.org/ebooks/40601
